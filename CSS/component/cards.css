@@ -1,0 +1,4 @@
+.cards{
+	DISPLAY: flex;
+    flex-wrap: wrap;
+ }
